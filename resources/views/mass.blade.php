@@ -68,7 +68,6 @@
 
             let massChart = new Chart(myChart, {
                 type: 'line', //bar, horizontalBar, pie, line, doughnut, radar, polarArea
-
                 data: {
                     labels: massDate,
                     datasets: [{
